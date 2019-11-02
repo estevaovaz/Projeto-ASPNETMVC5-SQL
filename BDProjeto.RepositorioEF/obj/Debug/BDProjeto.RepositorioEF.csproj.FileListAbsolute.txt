@@ -1,0 +1,12 @@
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\BDProjeto.RepositorioEF\bin\Debug\BDProjeto.RepositorioEF.dll.config
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\BDProjeto.RepositorioEF\bin\Debug\BDProjeto.RepositorioEF.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\BDProjeto.RepositorioEF\bin\Debug\BDProjeto.RepositorioEF.pdb
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\BDProjeto.RepositorioEF\bin\Debug\BDProjeto.Dominio.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\BDProjeto.RepositorioEF\bin\Debug\EntityFramework.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\BDProjeto.RepositorioEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\BDProjeto.RepositorioEF\bin\Debug\BDProjeto.Dominio.pdb
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\BDProjeto.RepositorioEF\bin\Debug\EntityFramework.xml
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\BDProjeto.RepositorioEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\BDProjeto.RepositorioEF\obj\Debug\BDProjeto.RepositorioEF.csprojResolveAssemblyReference.cache
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\BDProjeto.RepositorioEF\obj\Debug\BDProjeto.RepositorioEF.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\BDProjeto.RepositorioEF\obj\Debug\BDProjeto.RepositorioEF.pdb

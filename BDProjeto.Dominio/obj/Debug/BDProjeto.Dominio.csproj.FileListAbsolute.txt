@@ -1,0 +1,5 @@
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\BDProjeto.Dominio\bin\Debug\BDProjeto.Dominio.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\BDProjeto.Dominio\bin\Debug\BDProjeto.Dominio.pdb
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\BDProjeto.Dominio\obj\Debug\BDProjeto.Dominio.csprojResolveAssemblyReference.cache
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\BDProjeto.Dominio\obj\Debug\BDProjeto.Dominio.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\BDProjeto.Dominio\obj\Debug\BDProjeto.Dominio.pdb
